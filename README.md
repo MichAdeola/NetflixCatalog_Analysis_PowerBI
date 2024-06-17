@@ -32,7 +32,7 @@ It consists in one netflix_titles.csv file that contains the following informati
 # Methodology and tools used
 
 - Step : Data cleaning | EDA | Visualizations
-- Used tools : ![image](https://github.com/MichAdeola/NetflixCatalog_Analysis_PowerBI/assets/105505715/85e784aa-54d9-44fb-8cf6-4d9b52d44f44)
+- Used tools : ![image](https://github.com/MichAdeola/NetflixCatalog_Analysis_PowerBI/assets/105505715/022dc6f4-91ab-4b50-a813-6130cc0b8f51)
 
 # Results of the analysis
 Based on the results obtained throughout the data analysis process, we can provide the following observations:
