@@ -44,5 +44,7 @@ Based on the results obtained throughout the data analysis process, we can provi
 
 # Conclusion and next steps
 
-The analysis of the dataset has yielded some information about the Netflix catalog. The next steps could be to examine the other columns that were not studied in this project, such as "director", "cast", "rating" and "description". The "description" column, in particular, could be used as part of an NLP project to identify the most common keywords in program descriptions. It might also be interesting to obtain information on the dominant genres for viewers and subscribers by country, to find out which genres are most famously watched in each country.
+The analysis of the dataset has yielded some information about the Netflix catalog. The next steps could be :
+- To examine the other columns that were not studied in this project, such as "director", "cast", "rating" and "description". The "description" column, in particular, could be used as part of an NLP project to identify the most common keywords in program descriptions for supporting a wide range of analyses such as categorization, recommendation, and more.
+- also To obtain information on the dominant genres for viewers and subscribers by country, to find out which genres are most famously watched in each country.
 
