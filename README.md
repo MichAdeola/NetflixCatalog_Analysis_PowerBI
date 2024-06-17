@@ -26,12 +26,13 @@ It consists in one netflix_titles.csv file that contains the following informati
 - Release_year :	Actual Release year of the movie / TV show
 - Rating : TV Rating of the movie / TV show
 - Duration : Total Duration - in minutes or number of seasons
-- Listed_in	Category of the TV show / movie
-- Description	The summary description
+- Listed_in :	Category of the TV show / movie
+- Description :	The summary description
 
 # Methodology and tools used
 
-![image](https://github.com/MichAdeola/NetflixCatalog_Analysis_PowerBI/assets/105505715/2f781be6-d9f9-4608-b5fa-c51bb5189194)
+![Design sans titre](https://github.com/MichAdeola/NetflixCatalog_Analysis_PowerBI/assets/105505715/d36418d5-d840-4cc0-9da5-de34972e1a00)
+
 
 # Results of the analysis
 Based on the results obtained throughout the data analysis process, we can provide the following observations:
