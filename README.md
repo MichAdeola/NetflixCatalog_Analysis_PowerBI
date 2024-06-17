@@ -31,8 +31,7 @@ It consists in one netflix_titles.csv file that contains the following informati
 
 # Methodology and tools used
 
-![Design sans titre](https://github.com/MichAdeola/NetflixCatalog_Analysis_PowerBI/assets/105505715/d36418d5-d840-4cc0-9da5-de34972e1a00)
-
+![Design sans titre](https://github.com/MichAdeola/NetflixCatalog_Analysis_PowerBI/assets/105505715/9ec83676-5e90-439a-874a-eff18e593203)
 
 # Results of the analysis
 Based on the results obtained throughout the data analysis process, we can provide the following observations:
