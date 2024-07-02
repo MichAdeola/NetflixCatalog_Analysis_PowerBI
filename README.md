@@ -13,7 +13,7 @@ Netflix would like to know the current state of their catalogue and provided us 
 - Determine whether there is any seasonality in the addition of shows to their catalog
 
 # Data sources
-The data source can be found on kaggle website at this link: https://www.kaggle.com/datasets/shivamb/netflix-shows/data
+The data source can be found on kaggle website at this [link :] (https://www.kaggle.com/datasets/shivamb/netflix-shows/data).
 It consists in one netflix_titles.csv file that contains the following information about each columns : 
 
 - Show_id	: Unique ID for every Movie / Tv Show
