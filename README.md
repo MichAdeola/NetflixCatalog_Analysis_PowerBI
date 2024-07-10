@@ -1,4 +1,4 @@
-# 🎓 Bloc II - Concepteur Développeur en Science des données
+# Netflix
 EDA project_Data Analysis Fullstack_Jedha Bootcamp. Creation of visualisations providing an overview of Netflix's catalog of movies and TV shows as of mid-2021.
 
 ## Problem statement
